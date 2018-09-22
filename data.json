@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "title": "afbhjfa",
+        "abstract": "fsjbajhf",
+        "room": "1234",
+        "speaker": {
+            "name": "sbafjaf",
+            "company": "afbvak",
+            "email": "fbdfdj",
+            "bio": "fd jf f"
+        },
+        "attendees": []
+    },
+    {
+        "id": 2,
+        "title": "afbhjfa",
+        "abstract": "fsjbajhf",
+        "room": "1234",
+        "speaker": {
+            "name": "sbafjaf",
+            "company": "afbvak",
+            "email": "fbdfdj",
+            "bio": "fd jf f"
+        },
+        "attendees": []
+    }
+]
