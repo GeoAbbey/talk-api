@@ -1,41 +1,22 @@
 [
     {
         "id": 1,
-        "title": "afbhjfa",
-        "abstract": "fsjbajhf",
-        "room": "1234",
+        "title": "VueJS Conference",
+        "abstract": "Point of Vue",
+        "room": "3",
         "speaker": {
-            "name": "sbafjaf",
-            "company": "afbvak",
-            "email": "fbdfdj",
-            "bio": "fd jf f"
+            "name": "Olasunkanmi Ismail",
+            "company": "Street Capital",
+            "email": "olasunkanmiismail2@gmail.com",
+            "bio": "Ismail is a software engineer"
         },
-        "attendees": []
-    },
-    {
-        "id": 2,
-        "title": "afbhjfa",
-        "abstract": "fsjbajhf",
-        "room": "1234",
-        "speaker": {
-            "name": "sbafjaf",
-            "company": "afbvak",
-            "email": "fbdfdj",
-            "bio": "fd jf f"
-        },
-        "attendees": []
-    },
-    {
-        "id": 3,
-        "title": "afbhjfa",
-        "abstract": "fsjbajhf",
-        "room": "1234",
-        "speaker": {
-            "name": "sbafjaf",
-            "company": "afbvak",
-            "email": "fbdfdj",
-            "bio": "fd jf f"
-        },
-        "attendees": []
+        "attendees": [
+            {
+                "name": "Abiodun",
+                "company": "Google",
+                "email": "olasunkanmiismail2@gmail.com",
+                "registered": "true"
+            }
+        ]
     }
 ]

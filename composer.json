@@ -1,6 +1,6 @@
 {
     "name": "Talk API",
-    "description": "A Talk API Built By Laravel Lumen Framework.",
+    "description": "A Talk API Built With Laravel Lumen Framework.",
     "keywords": ["framework", "laravel", "lumen"],
     "license": "MIT",
     "type": "project",
