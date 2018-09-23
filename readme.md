@@ -54,7 +54,7 @@
    `name=[string]` <br>
    `company=[string]` <br>
    `email=[string]` <br>
-   `registered=[boolean]` <br>
+   `registered=[string]` <br>
 
 * **Success Response:**
 
